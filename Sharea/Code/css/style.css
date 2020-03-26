@@ -2576,20 +2576,22 @@ ul {
 
 /* line 68, E:/172 Etrain Education/172_Etrain_Education_html/sass/_banner.scss */
 .banner_part .banner_text h5 {
-  font-size: 14px;
+  font-size: 17px;
   text-transform: uppercase;
   font-weight: 500;
   color: #556172;
   margin-bottom: 14px;
+    font-family: "Rajdhani";
 }
 
 /* line 75, E:/172 Etrain Education/172_Etrain_Education_html/sass/_banner.scss */
 .banner_part .banner_text h1 {
-  font-size: 55px;
+  font-size: 72px;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 27px;
   line-height: 1.18;
+    font-family: "Rajdhani";
 }
 
 @media (max-width: 576px) {
@@ -2637,7 +2639,7 @@ ul {
 .banner_part .banner_text p {
   font-size: 15px;
   line-height: 1.8;
-  font-family: "Roboto", sans-serif;
+  font-family: "Rajdhani", sans-serif;
   color: #777777;
 }
 
@@ -2646,6 +2648,9 @@ ul {
   box-shadow: 0px 12px 20px 0px rgba(255, 126, 95, 0.15);
   margin-top: 50px;
   padding: 13.5px 45px;
+}
+.img-download{
+    height: 24px;
 }
 
 @media (max-width: 576px) {
