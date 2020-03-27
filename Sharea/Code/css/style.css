@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:300,400,500,600,700,800|Roboto:300,400,500");
 /* line 2, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
 .btn_1, .btn_2:hover, .main_menu .navbar-toggler:after, .banner_part .banner_text .btn_1, .feature_part .single_feature:hover span {
-  background-image: linear-gradient(to left, #ee390f 0%, #f9b700 51%, #ee390f 100%);
+  background-image: linear-gradient(to left, #a10856 0%, #ffb758 51%, #a10856 100%);
 }
 
 /* line 6, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
@@ -151,7 +151,7 @@ a:hover {
 
 /* line 72, E:/172 Etrain Education/172_Etrain_Education_html/sass/_common.scss */
 h1, h2, h3, h4, h5, h6 {
-  color: #0c2e60;
+  color: #15031B;
   font-family: "Poppins", sans-serif;
 }
 
@@ -568,8 +568,8 @@ ul {
   padding: 13px 39px;
   border-radius: 50px;
   background-color: transparent;
-  border: 1px solid #0c2e60;
-  color: #0c2e60;
+  border: 1px solid #15031B;
+  color: #15031B;
   font-size: 14px;
   -o-transition: all .4s ease-in-out;
   -webkit-transition: all .4s ease-in-out;
