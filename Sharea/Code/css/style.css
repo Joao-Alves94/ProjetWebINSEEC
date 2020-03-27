@@ -153,6 +153,8 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   color: #0c2e60;
   font-family: "Rajdhani", sans-serif;
+  color: #15031B;
+  font-family: "Rajdhani", sans-serif;
 }
 
 /* line 76, E:/172 Etrain Education/172_Etrain_Education_html/sass/_common.scss */
@@ -568,8 +570,8 @@ ul {
   padding: 13px 39px;
   border-radius: 50px;
   background-color: transparent;
-  border: 1px solid #0c2e60;
-  color: #0c2e60;
+  border: 1px solid #15031B;
+  color: #15031B;
   font-size: 14px;
   -o-transition: all .4s ease-in-out;
   -webkit-transition: all .4s ease-in-out;
