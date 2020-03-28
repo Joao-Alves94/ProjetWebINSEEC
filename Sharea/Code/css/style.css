@@ -1,7 +1,7 @@
 /**************** extend css start ****************/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:300,400,500,600,700,800|Roboto:300,400,500");
 /* line 2, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
-.btn_1, .btn_2:hover, .main_menu .navbar-toggler:after, .banner_part .banner_text .btn_1, .feature_part .single_feature:hover span {
+.btn_1, .main_menu .navbar-toggler:after, .banner_part .banner_text .btn_1, .feature_part .single_feature:hover span {
   background-image: linear-gradient(to left, #a10856 0%, #ffb758 51%, #a10856 100%);
 }
 
@@ -142,6 +142,7 @@ a {
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
+
 
 /* line 66, E:/172 Etrain Education/172_Etrain_Education_html/sass/_common.scss */
 a:hover {
@@ -583,11 +584,7 @@ ul {
 }
 
 /* line 75, E:/172 Etrain Education/172_Etrain_Education_html/sass/_button.scss */
-.btn_2:hover {
-  color: #fff !important;
-  background-position: right center;
-  border: 1px solid transparent;
-}
+
 
 @media (max-width: 576px) {
   /* line 60, E:/172 Etrain Education/172_Etrain_Education_html/sass/_button.scss */
@@ -2588,12 +2585,12 @@ ul {
 
 /* line 75, E:/172 Etrain Education/172_Etrain_Education_html/sass/_banner.scss */
 .banner_part .banner_text h1 {
-  font-size: 72px;
+  font-size: 62px;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 27px;
   line-height: 1.18;
-    font-family: "Rajdhani";
+    font-family: "Righteous";
 }
 
 @media (max-width: 576px) {
@@ -2741,7 +2738,7 @@ ul {
   width: 41%;
   height: 69%;
   content: "";
-  background-image: url(../img/banner_img.png);
+  background-image: url(../img/Back%20banner.png);
   background-size: 100% 100%;
   right: 9%;
 }
