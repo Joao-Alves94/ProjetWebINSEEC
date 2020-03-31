@@ -4,7 +4,7 @@
 .btn_1, .main_menu .navbar-toggler:after, .banner_part .banner_text .btn_1, .feature_part .single_feature:hover span {
   background-image: linear-gradient(to left, #a10856 0%, #ffb758 51%, #a10856 100%);
 }
-
+     
 /* line 6, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
 .member_counter {
   background-image: -moz-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
@@ -148,6 +148,7 @@ a {
 a:hover {
   outline: none;
   text-decoration: none;
+    color: #15031B;
 }
 
 /* line 72, E:/172 Etrain Education/172_Etrain_Education_html/sass/_common.scss */
