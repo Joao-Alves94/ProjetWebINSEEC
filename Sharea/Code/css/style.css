@@ -2189,7 +2189,7 @@ ul {
   color: #0c2e60;
   font-size: 15px;
   padding: 0px 24px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Righteous", sans-serif;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2418,7 +2418,7 @@ ul {
   color: #fff;
   font-size: 15px;
   padding: 0px 24px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Righteous", sans-serif;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -7298,3 +7298,4 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
