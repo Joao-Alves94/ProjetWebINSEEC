@@ -1,0 +1,15 @@
+.fix-width {
+  width: inherit !important;
+}
+
+@media only screen and (min-width: 576px) {
+/* DESKTOP */
+}
+
+@media only screen and (max-width: 576px) {
+/* MOBILE */
+  
+  body {
+    background-color: black;
+  }
+}
