@@ -3261,7 +3261,7 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 70% 100%;
-  background-position: left top;
+  background-position: ;
   position: absolute;
   left: -134px;
   bottom: -69px;
@@ -3622,15 +3622,22 @@ ul {
 /* line 261, E:/172 Etrain Education/172_Etrain_Education_html/sass/_learning.scss */
 .advance_feature .learning_img {
   background-image: url("../img/advance_feature_bg.png");
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 84% 100%;
-  background-position: right top;
+  background-position: left top;
   left: 0;
   bottom: -31px;
   right: -82px;
   top: -30px;
+}
+
+.background-mockup {
+    background-image: url(/img/advance_feature_bg.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+    
 }
 
 @media (max-width: 576px) {
