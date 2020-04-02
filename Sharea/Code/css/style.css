@@ -3269,21 +3269,15 @@ ul {
 
 .ShareaX{
   font-family: Righteous;
-  color: background-image: linear-gradient(to left, #a10856 0%, #ffb758 51%, #a10856 100%);
+  background: linear-gradient(to left, #a10856 0%, #ffb758 51%, #ffb758 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
 
 }
-.shareaX::before{
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background: -webkit-linear-gradient(left, #f00, #00f);
-  background: linear-gradient(to right, #f00, #00f);
-  content: '';
-  display: block;
-  mix-blend-mode: screen;
-}
+
+
+
+
 
 .youtube_embed {
   background-position: center;
