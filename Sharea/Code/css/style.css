@@ -4560,7 +4560,7 @@ ul {
 
 /* line 50, E:/172 Etrain Education/172_Etrain_Education_html/sass/_testimonial_part.scss */
 .testimonial_part .testimonial_slider_text {
-  padding: 50px;
+  padding: 25px;
   background-color: #fff;
   box-shadow: 0px 10px 30px 0px rgba(12, 46, 96, 0.1);
   position: relative;
@@ -4718,7 +4718,7 @@ ul {
 .testimonial_part h4 {
   font-size: 20px;
   font-weight: 600;
-  margin-top: 20px;
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 
