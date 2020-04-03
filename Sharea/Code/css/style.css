@@ -281,7 +281,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
   text-align: center;
   width: 80px;
   height: 2px;
-  background-color: #ff663b;
+  background-color: #d24150;
 }
 
 @media (max-width: 576px) {
@@ -3396,7 +3396,7 @@ ul {
   height: 2px;
   width: 60px;
   content: "";
-  background-color: #ff663b;
+  background-color: #d24150;
 }
 
 /* line 101, E:/172 Etrain Education/172_Etrain_Education_html/sass/_learning.scss */
@@ -4679,7 +4679,7 @@ ul {
 
 /* line 132, E:/172 Etrain Education/172_Etrain_Education_html/sass/_testimonial_part.scss */
 .testimonial_part .owl-dots button.owl-dot.active {
-  background-color: #ff663b;
+  background-color: #d24150;
   width: 17px;
   border-radius: 50px;
 }
