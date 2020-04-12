@@ -7,9 +7,9 @@
      
 /* line 6, E:/172 Etrain Education/172_Etrain_Education_html/sass/_extends.scss */
 .member_counter {
-  background-image: -moz-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
-  background-image: -webkit-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
-  background-image: -ms-linear-gradient(0deg, #ee390f 0%, #f9b700 100%);
+  background-image: -moz-linear-gradient(0deg, #ffb758 0%, #a10856 100%);
+  background-image: -webkit-linear-gradient(0deg, #ffb758 0%, #a10856 100%);
+  background-image: -ms-linear-gradient(0deg, #ffb758 0%, #a10856 100%);
 }
 
 /**************** extend css start ****************/
@@ -4631,7 +4631,7 @@ ul {
 .testimonial_part .owl-dots {
   text-align: center;
   padding-top: 67px;
-  margin-left: -26%;
+  margin-left: -10%;
   line-height: 0px;
 }
 
