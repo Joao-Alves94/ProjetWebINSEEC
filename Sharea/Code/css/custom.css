@@ -22,5 +22,8 @@
     color: #d24150;
     font-weight: 600;
 }
-.blog_part .single-home-blog .card span.ti-user :hover {
-    color: #d24150;
+.blog_part .single-home-blog .card h5 span:hover {
+  -webkit-transition: 0.8s;
+  transition: 0.8s;
+  color: #d24150;
+}
