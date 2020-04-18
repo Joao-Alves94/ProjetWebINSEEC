@@ -616,7 +616,7 @@ ul {
 .btn_4 {
   background-color: #ff663b;
   padding: 3.5px 21px;
-  background: #ff663b;
+  background: #d24150;
   text-transform: capitalize;
   display: inline-block;
   border: 2px solid transparent;
@@ -627,7 +627,7 @@ ul {
 
 /* line 106, E:/172 Etrain Education/172_Etrain_Education_html/sass/_button.scss */
 .btn_4:hover {
-  background: rgba(255, 102, 59, 0.8);
+  background: #e97254;
   color: #fff;
 }
 
@@ -2753,7 +2753,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/banner_img.png);
+    background-image: url(../img/Back%20banner.png);
     background-size: contain;
     right: 0;
     left: 0;
@@ -2771,7 +2771,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/banner_img.png);
+    background-image: url(../img/Back%20banner.png);
     background-size: contain;
     right: 0;
     left: 0;
@@ -2789,7 +2789,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/banner_img.png);
+    background-image: url(../img/Back%20banner.png);
     background-size: contain;
     right: 0;
     left: 0;
@@ -2806,7 +2806,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/banner_img.png);
+    background-image: url(../img/Back%20banner.png);
     background-size: contain;
     right: 5%;
     bottom: 0;
@@ -6513,7 +6513,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 90, E:/172 Etrain Education/172_Etrain_Education_html/sass/_blog_part.scss */
 .blog_part .single-home-blog .card span {
-  color: #8a8a8a;
+  color: #15031B;
   margin-bottom: 10px;
   display: inline-block;
   margin-top: 10px;
@@ -6596,7 +6596,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog_part .single-home-blog .card h5:hover {
   -webkit-transition: 0.8s;
   transition: 0.8s;
-  color: #ff663b;
+  color: #d24150;
 }
 
 /* line 139, E:/172 Etrain Education/172_Etrain_Education_html/sass/_blog_part.scss */

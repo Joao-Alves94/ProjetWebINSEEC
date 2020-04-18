@@ -10,9 +10,17 @@
 /* MOBILE */
   
   body {
-    background-color: black;
+    background-color: white;
   }
 }
 .single-footer-widget footer_1{
 	margin-left: 65px;
 }
+
+.card-body .card-body-text h4 {
+    float: right;
+    color: #d24150;
+    font-weight: 600;
+}
+.blog_part .single-home-blog .card span.ti-user :hover {
+    color: #d24150;
