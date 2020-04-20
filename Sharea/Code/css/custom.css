@@ -31,3 +31,15 @@
 .name-title {
     font-style: italic;
 }
+
+/* boutton Partie Communauté - changement de texte Hover*/
+
+.btn_4:hover {
+  background: #e97254;
+  color: #fff;
+    font-size: 0;
+}
+
+.btn_4:hover:after {
+    content: attr(visit-garage);
+}
