@@ -14,7 +14,12 @@
   }
 }
 .single-footer-widget footer_1{
-	margin-left: 65px;
+	margin-left: 0px;
+}
+
+.single-footer-maif{
+    margin-left: 0;
+    
 }
 
 .card-body .card-body-text h4 {
