@@ -40,14 +40,19 @@
 
 /* boutton Partie Communauté - changement de texte Hover*/
 
-.btn_4:hover {
+.btn_4:hover span {
   background: #e97254;
   color: #fff;
-    font-weight: 600;
+    display: none;
 }
 
-.btn_4:hover:after {
-    content: attr(visit-garage);
+.btn_4:hover:before {
+    content: "Visiter";
+    color: white;
+}
+
+.btn_4:hover {
+    color: white;
 }
 
 .btn_5:hover{
