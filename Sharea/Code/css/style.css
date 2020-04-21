@@ -6516,6 +6516,18 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 10px;
 }
 
+.btn_5 {
+  background-color: #d24150;
+  padding: 3.5px 21px;
+  background: #d24150;
+  text-transform: capitalize;
+  display: inline-block;
+  border: 2px solid transparent;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  color: #fff;
+}
+
 @media (max-width: 576px) {
   /* line 90, E:/172 Etrain Education/172_Etrain_Education_html/sass/_blog_part.scss */
   .blog_part .single-home-blog .card span {
@@ -6976,7 +6988,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 2, E:/172 Etrain Education/172_Etrain_Education_html/sass/_footer.scss */
 .footer-area {
   background-color: #f7f7f7;
-  padding: 100px 0px 20px;
+  padding: 50px 0px 10px;
 }
 
 @media (max-width: 991px) {
@@ -7245,8 +7257,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 195, E:/172 Etrain Education/172_Etrain_Education_html/sass/_footer.scss */
 .footer-area .copyright_part_text {
-  padding-top: 26px;
-  margin-top: 112px;
+  padding-top: 10px;
+  margin-top: 20px;
   border-top: 1px solid #dedede;
 }
 
