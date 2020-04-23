@@ -2738,8 +2738,9 @@ ul {
   height: 69%;
   content: "";
   background-image: url(../img/Back%20banner.png);
-  background-size: 100% 100%;
+  background-size: contain;
   right: 9%;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 576px) {
@@ -2751,7 +2752,7 @@ ul {
     max-height: 100%;
     content: "";
     background-image: url(../img/Back%20banner.png);
-    background-size: contain;
+    background-size:contain;
     right: 0;
     left: 0;
     text-align: center;
@@ -2804,7 +2805,7 @@ ul {
     max-height: 100%;
     content: "";
     background-image: url(../img/Back%20banner.png);
-    background-size: contain;
+    background-size: auto;
     right: 5%;
     bottom: 0;
     top: auto;
