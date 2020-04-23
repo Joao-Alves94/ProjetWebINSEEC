@@ -28,11 +28,11 @@
     font-weight: 600;
 }
 /* j'arrive pas à mettre le hover sur span&h5 en même temps bordel*/
-.blog_part .single-home-blog .card .card-body-text a h5 span:hover {
+.blog_part .single-home-blog .card .card-body-text h5 span:hover {
   -webkit-transition: 0.8s;
   transition: 0.8s;
   color: #d24150;
-}
+}/*Oh ptn j'ai réussi*/
 
 .name-title {
     font-style: italic;
